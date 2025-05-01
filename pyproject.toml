@@ -1,0 +1,13 @@
+[project]
+name = "agents-projects"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=5.28.0",
+    "openai>=1.76.2",
+    "pypdf>=5.4.0",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+]
