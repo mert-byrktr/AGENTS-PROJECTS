@@ -13,6 +13,8 @@ Career conversation agent utilizng some tool calling functionalities to handle u
     OPENAI_API_KEY=your_api_key_here
     PUSHOVER_TOKEN=your_pushover_token
     PUSHOVER_USER=your_pushover_user_key
+    TELEGRAM_BOT_TOKEN=you_telegram_bot_token
+    TELEGRAM_CHAT_ID=your_telegram_chat_id
    ```
 
 4. Make sure uv is installed and run the following:
