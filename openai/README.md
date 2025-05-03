@@ -16,10 +16,4 @@ Will be updated as progressed.
     TELEGRAM_CHAT_ID=your_telegram_chat_id
    ```
 
-4. Make sure uv is installed and run the following:
-   ```bash
-   uv sync
-   cd career-conversation-agent
-   uv run app.py
-   ```
 
