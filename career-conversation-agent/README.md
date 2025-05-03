@@ -1,5 +1,6 @@
 Follow along code for the udemy course **https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/**
 
+Career conversation agent utilizng some tool calling functionalities to handle unknown and known questions using OpenAI SDK
 
 
 ## Setup Instructions

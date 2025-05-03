@@ -1,6 +1,6 @@
 Follow along code for the udemy course **https://www.udemy.com/course/the-complete-agentic-ai-engineering-course/**
 
-
+Will be updated as progressed.
 
 ## Setup Instructions
 
