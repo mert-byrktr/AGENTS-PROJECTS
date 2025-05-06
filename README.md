@@ -16,10 +16,3 @@ Follow along code for the udemy course **https://www.udemy.com/course/the-comple
     TELEGRAM_CHAT_ID=your_telegram_chat_id
    ```
 
-4. Make sure uv is installed and run the following:
-   ```bash
-   uv sync
-   cd career-conversation-agent
-   uv run app.py
-   ```
-
